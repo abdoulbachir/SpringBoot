@@ -1,6 +1,5 @@
 package com.bachir.springboot.cruddemo.rest;
 
-import com.bachir.springboot.cruddemo.dao.EmployeeDAO;
 import com.bachir.springboot.cruddemo.entity.Employee;
 import com.bachir.springboot.cruddemo.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
